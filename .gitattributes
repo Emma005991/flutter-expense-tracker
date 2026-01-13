@@ -1,0 +1,10 @@
+# Tell GitHub to treat this as a Dart project
+*.dart linguist-language=Dart
+
+# Ignore platform build folders
+android/** linguist-vendored
+ios/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+web/** linguist-vendored
