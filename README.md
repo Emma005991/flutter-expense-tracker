@@ -3,17 +3,17 @@
 
 A clean, modern **Expense Tracker** built with Flutter to help users manage their daily spending and build better financial habits.
 
-This project is part of my Flutter portfolio and demonstrates real-world app features such as local persistence, charts, theming, and multi-screen navigation.
+This project is part of my Flutter portfolio and demonstrates real world app features such as local persistence, charts, theming, and multi screen navigation.
 
 ## ✨ Features
 
 - ➕ Add, edit, and delete expenses  
 - 🗂️ Categorize expenses (Food, Transport, Bills, Shopping, etc.)  
 - 📊 Visual analytics with charts (daily / weekly overview)  
-- 💾 Offline-first – data is stored locally on device  
+- 💾 Offline first ; data is stored locally on device  
 - 🌙 Light & Dark mode  
 - 🧮 Automatic total & summary calculations  
-- 📅 Date-based filtering  
+- 📅 Date based filtering  
 - 📱 Responsive UI for mobile & desktop  
 
 ## 🛠️ Tech Stack
@@ -51,11 +51,11 @@ This project is part of my Flutter portfolio and demonstrates:
 * State management
 * Local data persistence
 * Clean UI/UX design
-* Multi-screen navigation
-* Real-world app architecture
-* Cross-platform Flutter development
+* Multi screen navigation
+* Real world app architecture
+* Cross platform Flutter development
 
 Built by **Emmanuel** 🚀
-Flutter Developer | Mobile App Enthusiast
+Flutter Developer
 
 
